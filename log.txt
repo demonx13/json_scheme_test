@@ -1,0 +1,2744 @@
+2020-11-28 13:32:22.016156
+cmarker2d760c3-7e10-4464-ab22-7fda6b5e2562.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+
+ba25151c-914f-4f47-909a-7a65a6339f34.json event: label_       selected
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+
+ffe6b214-d543-40a8-8da3-deb0dc5bbd8c.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'suprt marker' is not of type 'array' при проверке параметра 'type' path: cmarkers
+ошибка None is not of type 'integer' при проверке параметра 'type' path: user_id
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка None is not of type 'integer' при проверке параметра 'type' path: user_id
+
+
+cc07e442-7986-4714-8fc2-ac2256690a90.json event: label_selected
+sleep_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+cmarker_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+workout_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+label_selected.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+
+1eba2aa1-2acf-460d-91e6-55a8c3e3b7a3.json event: label_selected
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+3b4088ef-7521-4114-ac56-57c68632d431.json event: cmarker_created
+sleep_created.schema:
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+valid
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'id' is a required property при проверке параметра 'required' path: user
+
+
+3ade063d-d1b9-453f-85b4-dda7bfda4711.json event: cmarker_calculated
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+fb1a0854-9535-404d-9bdd-9ec0abb6cd6c.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+
+
+c72d21cf-1152-4d8e-b649-e198149d5bbb.json event: meditation_created
+sleep_created.schema:
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+a95d845c-8d9e-4e07-8948-275167643a40.json event: None
+sleep_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+cmarker_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+workout_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+label_selected.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+
+2e8ffd3c-dbda-42df-9901-b7a30869511a.json event: meditation_created
+sleep_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+bb998113-bc02-4cd1-9410-d9ae94f53eb0.json event: sleep_created
+sleep_created.schema:
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка [{'date': '2020-08-23T23:03:00-06:00', 'type': 'light'}, {'date': '2020-08-23T23:54:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T00:18:00-06:00', 'type': 'light'}, {'date': '2020-08-24T00:19:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T00:20:00-06:00', 'type': 'light'}, {'date': '2020-08-24T00:25:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T01:06:00-06:00', 'type': 'light'}, {'date': '2020-08-24T01:43:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T02:15:00-06:00', 'type': 'light'}, {'date': '2020-08-24T02:31:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T03:13:00-06:00', 'type': 'light'}, {'date': '2020-08-24T03:17:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T03:18:00-06:00', 'type': 'light'}, {'date': '2020-08-24T03:19:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T03:20:00-06:00', 'type': 'light'}, {'date': '2020-08-24T03:23:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T04:24:00-06:00', 'type': 'light'}, {'date': '2020-08-24T04:49:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T05:18:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:05:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T06:22:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:25:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T06:28:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:31:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T06:32:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:33:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:05:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:06:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:07:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:08:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:09:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:10:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:11:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:13:00-06:00', 'type': 'awake'}] is not of type 'object' при проверке параметра 'type' path: type_ranges
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+29f0bfa7-bd51-4d45-93be-f6ead1ae0b96.json event: None
+sleep_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+cmarker_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+workout_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+label_selected.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+
+f5656ff6-29e1-46b0-8d8a-ff77f9cc0953.json event: sleep_created
+sleep_created.schema:
+valid
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка [{'date': '2020-09-17T23:49:00+10:00', 'type': 'deep'}, {'date': '2020-09-18T00:21:00+10:00', 'type': 'awake'}, {'date': '2020-09-18T00:26:00+10:00', 'type': 'light'}] is not of type 'object' при проверке параметра 'type' path: type_ranges
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+297e4dc6-07d1-420d-a5ae-e4aff3aedc19.json event: sleep_created
+sleep_created.schema:
+ошибка 'type' is a required property при проверке параметра 'required' path: type_ranges
+ошибка 'type' is a required property при проверке параметра 'required' path: type_ranges
+ошибка 'type' is a required property при проверке параметра 'required' path: type_ranges
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка [{'date': '2020-08-27T00:51:00-04:00', 'type': 'light'}, {'date': '2020-08-27T01:06:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T01:07:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T01:37:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T02:08:00-04:00', 'type': 'light'}, {'date': '2020-08-27T02:34:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T02:46:00-04:00', 'type': 'light'}, {'date': '2020-08-27T03:09:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T03:28:00-04:00', 'type': 'light'}, {'date': '2020-08-27T03:46:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T03:58:00-04:00', 'type': 'light'}, {'date': '2020-08-27T04:17:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T04:23:00-04:00', 'type': 'light'}, {'date': '2020-08-27T04:36:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T04:53:00-04:00', 'type': 'light'}, {'date': '2020-08-27T05:05:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T05:13:00-04:00', 'type': 'light'}, {'date': '2020-08-27T05:14:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T05:37:00-04:00', 'type': 'light'}, {'date': '2020-08-27T05:44:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T06:51:00-04:00', 'type': 'light'}, {'date': '2020-08-27T06:58:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T06:59:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T07:00:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T07:01:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T07:11:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T08:23:00-04:00', 'type': 'light'}, {'date': '2020-08-27T08:24:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T08:25:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T08:34:00-04:00'}, {'date': '2020-08-27T09:27:00-04:00', 'type': 'light'}, {'date': '2020-08-27T09:34:00-04:00'}, {'date': '2020-08-27T09:36:00-04:00', 'type': 'light'}, {'date': '2020-08-27T09:40:00-04:00'}, {'date': '2020-08-27T09:43:00-04:00', 'type': 'light'}] is not of type 'object' при проверке параметра 'type' path: type_ranges
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+e2d760c3-7e10-4464-ab22-7fda6b5e2562.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+
+6b1984e5-4092-4279-9dce-bdaa831c7932.json event: meditation_created
+sleep_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+VALIDATION SUCCESS RESULT:
+[['cmarker_created.schema', '3b4088ef-7521-4114-ac56-57c68632d431.json'], ['sleep_created.schema', 'f5656ff6-29e1-46b0-8d8a-ff77f9cc0953.json']]
+2020-11-28 13:33:35.594348
+cmarker2d760c3-7e10-4464-ab22-7fda6b5e2562.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+
+ba25151c-914f-4f47-909a-7a65a6339f34.json event: label_       selected
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+
+ffe6b214-d543-40a8-8da3-deb0dc5bbd8c.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'suprt marker' is not of type 'array' при проверке параметра 'type' path: cmarkers
+ошибка None is not of type 'integer' при проверке параметра 'type' path: user_id
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка None is not of type 'integer' при проверке параметра 'type' path: user_id
+
+
+cc07e442-7986-4714-8fc2-ac2256690a90.json event: label_selected
+sleep_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+cmarker_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+workout_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+label_selected.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+
+1eba2aa1-2acf-460d-91e6-55a8c3e3b7a3.json event: label_selected
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+3b4088ef-7521-4114-ac56-57c68632d431.json event: cmarker_created
+sleep_created.schema:
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+valid
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'id' is a required property при проверке параметра 'required' path: user
+
+
+3ade063d-d1b9-453f-85b4-dda7bfda4711.json event: cmarker_calculated
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+fb1a0854-9535-404d-9bdd-9ec0abb6cd6c.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+
+
+c72d21cf-1152-4d8e-b649-e198149d5bbb.json event: meditation_created
+sleep_created.schema:
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+a95d845c-8d9e-4e07-8948-275167643a40.json event: None
+sleep_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+cmarker_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+workout_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+label_selected.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+
+2e8ffd3c-dbda-42df-9901-b7a30869511a.json event: meditation_created
+sleep_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+bb998113-bc02-4cd1-9410-d9ae94f53eb0.json event: sleep_created
+sleep_created.schema:
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка [{'date': '2020-08-23T23:03:00-06:00', 'type': 'light'}, {'date': '2020-08-23T23:54:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T00:18:00-06:00', 'type': 'light'}, {'date': '2020-08-24T00:19:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T00:20:00-06:00', 'type': 'light'}, {'date': '2020-08-24T00:25:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T01:06:00-06:00', 'type': 'light'}, {'date': '2020-08-24T01:43:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T02:15:00-06:00', 'type': 'light'}, {'date': '2020-08-24T02:31:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T03:13:00-06:00', 'type': 'light'}, {'date': '2020-08-24T03:17:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T03:18:00-06:00', 'type': 'light'}, {'date': '2020-08-24T03:19:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T03:20:00-06:00', 'type': 'light'}, {'date': '2020-08-24T03:23:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T04:24:00-06:00', 'type': 'light'}, {'date': '2020-08-24T04:49:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T05:18:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:05:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T06:22:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:25:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T06:28:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:31:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T06:32:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:33:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:05:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:06:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:07:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:08:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:09:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:10:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:11:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:13:00-06:00', 'type': 'awake'}] is not of type 'object' при проверке параметра 'type' path: type_ranges
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+29f0bfa7-bd51-4d45-93be-f6ead1ae0b96.json event: None
+sleep_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+cmarker_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+workout_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+label_selected.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+
+f5656ff6-29e1-46b0-8d8a-ff77f9cc0953.json event: sleep_created
+sleep_created.schema:
+valid
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка [{'date': '2020-09-17T23:49:00+10:00', 'type': 'deep'}, {'date': '2020-09-18T00:21:00+10:00', 'type': 'awake'}, {'date': '2020-09-18T00:26:00+10:00', 'type': 'light'}] is not of type 'object' при проверке параметра 'type' path: type_ranges
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+297e4dc6-07d1-420d-a5ae-e4aff3aedc19.json event: sleep_created
+sleep_created.schema:
+ошибка 'type' is a required property при проверке параметра 'required' path: type_ranges
+ошибка 'type' is a required property при проверке параметра 'required' path: type_ranges
+ошибка 'type' is a required property при проверке параметра 'required' path: type_ranges
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка [{'date': '2020-08-27T00:51:00-04:00', 'type': 'light'}, {'date': '2020-08-27T01:06:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T01:07:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T01:37:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T02:08:00-04:00', 'type': 'light'}, {'date': '2020-08-27T02:34:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T02:46:00-04:00', 'type': 'light'}, {'date': '2020-08-27T03:09:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T03:28:00-04:00', 'type': 'light'}, {'date': '2020-08-27T03:46:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T03:58:00-04:00', 'type': 'light'}, {'date': '2020-08-27T04:17:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T04:23:00-04:00', 'type': 'light'}, {'date': '2020-08-27T04:36:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T04:53:00-04:00', 'type': 'light'}, {'date': '2020-08-27T05:05:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T05:13:00-04:00', 'type': 'light'}, {'date': '2020-08-27T05:14:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T05:37:00-04:00', 'type': 'light'}, {'date': '2020-08-27T05:44:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T06:51:00-04:00', 'type': 'light'}, {'date': '2020-08-27T06:58:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T06:59:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T07:00:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T07:01:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T07:11:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T08:23:00-04:00', 'type': 'light'}, {'date': '2020-08-27T08:24:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T08:25:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T08:34:00-04:00'}, {'date': '2020-08-27T09:27:00-04:00', 'type': 'light'}, {'date': '2020-08-27T09:34:00-04:00'}, {'date': '2020-08-27T09:36:00-04:00', 'type': 'light'}, {'date': '2020-08-27T09:40:00-04:00'}, {'date': '2020-08-27T09:43:00-04:00', 'type': 'light'}] is not of type 'object' при проверке параметра 'type' path: type_ranges
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+e2d760c3-7e10-4464-ab22-7fda6b5e2562.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+
+6b1984e5-4092-4279-9dce-bdaa831c7932.json event: meditation_created
+sleep_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+VALIDATION SUCCESS RESULT:
+[['cmarker_created.schema', '3b4088ef-7521-4114-ac56-57c68632d431.json'], ['sleep_created.schema', 'f5656ff6-29e1-46b0-8d8a-ff77f9cc0953.json']]
+2020-11-28 13:34:44.334506
+cmarker2d760c3-7e10-4464-ab22-7fda6b5e2562.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+
+ba25151c-914f-4f47-909a-7a65a6339f34.json event: label_       selected
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+
+ffe6b214-d543-40a8-8da3-deb0dc5bbd8c.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'suprt marker' is not of type 'array' при проверке параметра 'type' path: cmarkers
+ошибка None is not of type 'integer' при проверке параметра 'type' path: user_id
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка None is not of type 'integer' при проверке параметра 'type' path: user_id
+
+
+cc07e442-7986-4714-8fc2-ac2256690a90.json event: label_selected
+sleep_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+cmarker_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+workout_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+label_selected.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+
+1eba2aa1-2acf-460d-91e6-55a8c3e3b7a3.json event: label_selected
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+3b4088ef-7521-4114-ac56-57c68632d431.json event: cmarker_created
+sleep_created.schema:
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+valid
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'id' is a required property при проверке параметра 'required' path: user
+
+
+3ade063d-d1b9-453f-85b4-dda7bfda4711.json event: cmarker_calculated
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+fb1a0854-9535-404d-9bdd-9ec0abb6cd6c.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+
+
+c72d21cf-1152-4d8e-b649-e198149d5bbb.json event: meditation_created
+sleep_created.schema:
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+a95d845c-8d9e-4e07-8948-275167643a40.json event: None
+sleep_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+cmarker_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+workout_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+label_selected.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+
+2e8ffd3c-dbda-42df-9901-b7a30869511a.json event: meditation_created
+sleep_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+bb998113-bc02-4cd1-9410-d9ae94f53eb0.json event: sleep_created
+sleep_created.schema:
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка [{'date': '2020-08-23T23:03:00-06:00', 'type': 'light'}, {'date': '2020-08-23T23:54:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T00:18:00-06:00', 'type': 'light'}, {'date': '2020-08-24T00:19:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T00:20:00-06:00', 'type': 'light'}, {'date': '2020-08-24T00:25:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T01:06:00-06:00', 'type': 'light'}, {'date': '2020-08-24T01:43:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T02:15:00-06:00', 'type': 'light'}, {'date': '2020-08-24T02:31:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T03:13:00-06:00', 'type': 'light'}, {'date': '2020-08-24T03:17:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T03:18:00-06:00', 'type': 'light'}, {'date': '2020-08-24T03:19:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T03:20:00-06:00', 'type': 'light'}, {'date': '2020-08-24T03:23:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T04:24:00-06:00', 'type': 'light'}, {'date': '2020-08-24T04:49:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T05:18:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:05:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T06:22:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:25:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T06:28:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:31:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T06:32:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:33:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:05:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:06:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:07:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:08:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:09:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:10:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:11:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:13:00-06:00', 'type': 'awake'}] is not of type 'object' при проверке параметра 'type' path: type_ranges
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+29f0bfa7-bd51-4d45-93be-f6ead1ae0b96.json event: None
+sleep_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+cmarker_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+workout_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+label_selected.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+
+f5656ff6-29e1-46b0-8d8a-ff77f9cc0953.json event: sleep_created
+sleep_created.schema:
+valid
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка [{'date': '2020-09-17T23:49:00+10:00', 'type': 'deep'}, {'date': '2020-09-18T00:21:00+10:00', 'type': 'awake'}, {'date': '2020-09-18T00:26:00+10:00', 'type': 'light'}] is not of type 'object' при проверке параметра 'type' path: type_ranges
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+297e4dc6-07d1-420d-a5ae-e4aff3aedc19.json event: sleep_created
+sleep_created.schema:
+ошибка 'type' is a required property при проверке параметра 'required' path: type_ranges
+ошибка 'type' is a required property при проверке параметра 'required' path: type_ranges
+ошибка 'type' is a required property при проверке параметра 'required' path: type_ranges
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка [{'date': '2020-08-27T00:51:00-04:00', 'type': 'light'}, {'date': '2020-08-27T01:06:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T01:07:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T01:37:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T02:08:00-04:00', 'type': 'light'}, {'date': '2020-08-27T02:34:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T02:46:00-04:00', 'type': 'light'}, {'date': '2020-08-27T03:09:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T03:28:00-04:00', 'type': 'light'}, {'date': '2020-08-27T03:46:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T03:58:00-04:00', 'type': 'light'}, {'date': '2020-08-27T04:17:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T04:23:00-04:00', 'type': 'light'}, {'date': '2020-08-27T04:36:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T04:53:00-04:00', 'type': 'light'}, {'date': '2020-08-27T05:05:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T05:13:00-04:00', 'type': 'light'}, {'date': '2020-08-27T05:14:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T05:37:00-04:00', 'type': 'light'}, {'date': '2020-08-27T05:44:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T06:51:00-04:00', 'type': 'light'}, {'date': '2020-08-27T06:58:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T06:59:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T07:00:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T07:01:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T07:11:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T08:23:00-04:00', 'type': 'light'}, {'date': '2020-08-27T08:24:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T08:25:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T08:34:00-04:00'}, {'date': '2020-08-27T09:27:00-04:00', 'type': 'light'}, {'date': '2020-08-27T09:34:00-04:00'}, {'date': '2020-08-27T09:36:00-04:00', 'type': 'light'}, {'date': '2020-08-27T09:40:00-04:00'}, {'date': '2020-08-27T09:43:00-04:00', 'type': 'light'}] is not of type 'object' при проверке параметра 'type' path: type_ranges
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+e2d760c3-7e10-4464-ab22-7fda6b5e2562.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+
+6b1984e5-4092-4279-9dce-bdaa831c7932.json event: meditation_created
+sleep_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+VALIDATION SUCCESS RESULT:
+[['cmarker_created.schema', '3b4088ef-7521-4114-ac56-57c68632d431.json'], ['sleep_created.schema', 'f5656ff6-29e1-46b0-8d8a-ff77f9cc0953.json']]
+2020-11-28 14:17:06.953081
+cmarker2d760c3-7e10-4464-ab22-7fda6b5e2562.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+
+ba25151c-914f-4f47-909a-7a65a6339f34.json event: label_       selected
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+
+ffe6b214-d543-40a8-8da3-deb0dc5bbd8c.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'suprt marker' is not of type 'array' при проверке параметра 'type' path: cmarkers
+ошибка None is not of type 'integer' при проверке параметра 'type' path: user_id
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка None is not of type 'integer' при проверке параметра 'type' path: user_id
+
+
+cc07e442-7986-4714-8fc2-ac2256690a90.json event: label_selected
+sleep_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+cmarker_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+workout_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+label_selected.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+
+1eba2aa1-2acf-460d-91e6-55a8c3e3b7a3.json event: label_selected
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+3b4088ef-7521-4114-ac56-57c68632d431.json event: cmarker_created
+sleep_created.schema:
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+valid
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'id' is a required property при проверке параметра 'required' path: user
+
+
+3ade063d-d1b9-453f-85b4-dda7bfda4711.json event: cmarker_calculated
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+fb1a0854-9535-404d-9bdd-9ec0abb6cd6c.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+
+
+c72d21cf-1152-4d8e-b649-e198149d5bbb.json event: meditation_created
+sleep_created.schema:
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+a95d845c-8d9e-4e07-8948-275167643a40.json event: None
+sleep_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+cmarker_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+workout_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+label_selected.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+
+2e8ffd3c-dbda-42df-9901-b7a30869511a.json event: meditation_created
+sleep_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+bb998113-bc02-4cd1-9410-d9ae94f53eb0.json event: sleep_created
+sleep_created.schema:
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка [{'date': '2020-08-23T23:03:00-06:00', 'type': 'light'}, {'date': '2020-08-23T23:54:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T00:18:00-06:00', 'type': 'light'}, {'date': '2020-08-24T00:19:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T00:20:00-06:00', 'type': 'light'}, {'date': '2020-08-24T00:25:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T01:06:00-06:00', 'type': 'light'}, {'date': '2020-08-24T01:43:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T02:15:00-06:00', 'type': 'light'}, {'date': '2020-08-24T02:31:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T03:13:00-06:00', 'type': 'light'}, {'date': '2020-08-24T03:17:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T03:18:00-06:00', 'type': 'light'}, {'date': '2020-08-24T03:19:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T03:20:00-06:00', 'type': 'light'}, {'date': '2020-08-24T03:23:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T04:24:00-06:00', 'type': 'light'}, {'date': '2020-08-24T04:49:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T05:18:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:05:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T06:22:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:25:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T06:28:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:31:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T06:32:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:33:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:05:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:06:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:07:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:08:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:09:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:10:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:11:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:13:00-06:00', 'type': 'awake'}] is not of type 'object' при проверке параметра 'type' path: type_ranges
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+29f0bfa7-bd51-4d45-93be-f6ead1ae0b96.json event: None
+sleep_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+cmarker_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+workout_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+label_selected.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+
+f5656ff6-29e1-46b0-8d8a-ff77f9cc0953.json event: sleep_created
+sleep_created.schema:
+valid
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка [{'date': '2020-09-17T23:49:00+10:00', 'type': 'deep'}, {'date': '2020-09-18T00:21:00+10:00', 'type': 'awake'}, {'date': '2020-09-18T00:26:00+10:00', 'type': 'light'}] is not of type 'object' при проверке параметра 'type' path: type_ranges
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+297e4dc6-07d1-420d-a5ae-e4aff3aedc19.json event: sleep_created
+sleep_created.schema:
+ошибка 'type' is a required property при проверке параметра 'required' path: type_ranges
+ошибка 'type' is a required property при проверке параметра 'required' path: type_ranges
+ошибка 'type' is a required property при проверке параметра 'required' path: type_ranges
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка [{'date': '2020-08-27T00:51:00-04:00', 'type': 'light'}, {'date': '2020-08-27T01:06:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T01:07:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T01:37:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T02:08:00-04:00', 'type': 'light'}, {'date': '2020-08-27T02:34:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T02:46:00-04:00', 'type': 'light'}, {'date': '2020-08-27T03:09:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T03:28:00-04:00', 'type': 'light'}, {'date': '2020-08-27T03:46:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T03:58:00-04:00', 'type': 'light'}, {'date': '2020-08-27T04:17:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T04:23:00-04:00', 'type': 'light'}, {'date': '2020-08-27T04:36:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T04:53:00-04:00', 'type': 'light'}, {'date': '2020-08-27T05:05:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T05:13:00-04:00', 'type': 'light'}, {'date': '2020-08-27T05:14:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T05:37:00-04:00', 'type': 'light'}, {'date': '2020-08-27T05:44:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T06:51:00-04:00', 'type': 'light'}, {'date': '2020-08-27T06:58:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T06:59:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T07:00:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T07:01:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T07:11:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T08:23:00-04:00', 'type': 'light'}, {'date': '2020-08-27T08:24:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T08:25:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T08:34:00-04:00'}, {'date': '2020-08-27T09:27:00-04:00', 'type': 'light'}, {'date': '2020-08-27T09:34:00-04:00'}, {'date': '2020-08-27T09:36:00-04:00', 'type': 'light'}, {'date': '2020-08-27T09:40:00-04:00'}, {'date': '2020-08-27T09:43:00-04:00', 'type': 'light'}] is not of type 'object' при проверке параметра 'type' path: type_ranges
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+e2d760c3-7e10-4464-ab22-7fda6b5e2562.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+
+6b1984e5-4092-4279-9dce-bdaa831c7932.json event: meditation_created
+sleep_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+VALIDATION SUCCESS RESULT:
+[['cmarker_created.schema', '3b4088ef-7521-4114-ac56-57c68632d431.json'], ['sleep_created.schema', 'f5656ff6-29e1-46b0-8d8a-ff77f9cc0953.json']]
+2020-11-28 14:18:19.377047
+cmarker2d760c3-7e10-4464-ab22-7fda6b5e2562.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+
+ba25151c-914f-4f47-909a-7a65a6339f34.json event: label_       selected
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+
+ffe6b214-d543-40a8-8da3-deb0dc5bbd8c.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'suprt marker' is not of type 'array' при проверке параметра 'type' path: cmarkers
+ошибка None is not of type 'integer' при проверке параметра 'type' path: user_id
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка None is not of type 'integer' при проверке параметра 'type' path: user_id
+
+
+cc07e442-7986-4714-8fc2-ac2256690a90.json event: label_selected
+sleep_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+cmarker_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+workout_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+label_selected.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+
+1eba2aa1-2acf-460d-91e6-55a8c3e3b7a3.json event: label_selected
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+3b4088ef-7521-4114-ac56-57c68632d431.json event: cmarker_created
+sleep_created.schema:
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+valid
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'id' is a required property при проверке параметра 'required' path: user
+
+
+3ade063d-d1b9-453f-85b4-dda7bfda4711.json event: cmarker_calculated
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+fb1a0854-9535-404d-9bdd-9ec0abb6cd6c.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+
+
+c72d21cf-1152-4d8e-b649-e198149d5bbb.json event: meditation_created
+sleep_created.schema:
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+a95d845c-8d9e-4e07-8948-275167643a40.json event: None
+sleep_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+cmarker_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+workout_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+label_selected.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+
+2e8ffd3c-dbda-42df-9901-b7a30869511a.json event: meditation_created
+sleep_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+bb998113-bc02-4cd1-9410-d9ae94f53eb0.json event: sleep_created
+sleep_created.schema:
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка [{'date': '2020-08-23T23:03:00-06:00', 'type': 'light'}, {'date': '2020-08-23T23:54:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T00:18:00-06:00', 'type': 'light'}, {'date': '2020-08-24T00:19:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T00:20:00-06:00', 'type': 'light'}, {'date': '2020-08-24T00:25:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T01:06:00-06:00', 'type': 'light'}, {'date': '2020-08-24T01:43:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T02:15:00-06:00', 'type': 'light'}, {'date': '2020-08-24T02:31:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T03:13:00-06:00', 'type': 'light'}, {'date': '2020-08-24T03:17:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T03:18:00-06:00', 'type': 'light'}, {'date': '2020-08-24T03:19:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T03:20:00-06:00', 'type': 'light'}, {'date': '2020-08-24T03:23:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T04:24:00-06:00', 'type': 'light'}, {'date': '2020-08-24T04:49:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T05:18:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:05:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T06:22:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:25:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T06:28:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:31:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T06:32:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:33:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:05:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:06:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:07:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:08:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:09:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:10:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:11:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:13:00-06:00', 'type': 'awake'}] is not of type 'object' при проверке параметра 'type' path: type_ranges
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+29f0bfa7-bd51-4d45-93be-f6ead1ae0b96.json event: None
+sleep_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+cmarker_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+workout_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+label_selected.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+
+
+f5656ff6-29e1-46b0-8d8a-ff77f9cc0953.json event: sleep_created
+sleep_created.schema:
+valid
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка [{'date': '2020-09-17T23:49:00+10:00', 'type': 'deep'}, {'date': '2020-09-18T00:21:00+10:00', 'type': 'awake'}, {'date': '2020-09-18T00:26:00+10:00', 'type': 'light'}] is not of type 'object' при проверке параметра 'type' path: type_ranges
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+297e4dc6-07d1-420d-a5ae-e4aff3aedc19.json event: sleep_created
+sleep_created.schema:
+ошибка 'type' is a required property при проверке параметра 'required' path: type_ranges
+ошибка 'type' is a required property при проверке параметра 'required' path: type_ranges
+ошибка 'type' is a required property при проверке параметра 'required' path: type_ranges
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка [{'date': '2020-08-27T00:51:00-04:00', 'type': 'light'}, {'date': '2020-08-27T01:06:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T01:07:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T01:37:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T02:08:00-04:00', 'type': 'light'}, {'date': '2020-08-27T02:34:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T02:46:00-04:00', 'type': 'light'}, {'date': '2020-08-27T03:09:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T03:28:00-04:00', 'type': 'light'}, {'date': '2020-08-27T03:46:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T03:58:00-04:00', 'type': 'light'}, {'date': '2020-08-27T04:17:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T04:23:00-04:00', 'type': 'light'}, {'date': '2020-08-27T04:36:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T04:53:00-04:00', 'type': 'light'}, {'date': '2020-08-27T05:05:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T05:13:00-04:00', 'type': 'light'}, {'date': '2020-08-27T05:14:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T05:37:00-04:00', 'type': 'light'}, {'date': '2020-08-27T05:44:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T06:51:00-04:00', 'type': 'light'}, {'date': '2020-08-27T06:58:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T06:59:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T07:00:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T07:01:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T07:11:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T08:23:00-04:00', 'type': 'light'}, {'date': '2020-08-27T08:24:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T08:25:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T08:34:00-04:00'}, {'date': '2020-08-27T09:27:00-04:00', 'type': 'light'}, {'date': '2020-08-27T09:34:00-04:00'}, {'date': '2020-08-27T09:36:00-04:00', 'type': 'light'}, {'date': '2020-08-27T09:40:00-04:00'}, {'date': '2020-08-27T09:43:00-04:00', 'type': 'light'}] is not of type 'object' при проверке параметра 'type' path: type_ranges
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+e2d760c3-7e10-4464-ab22-7fda6b5e2562.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'source' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+
+
+6b1984e5-4092-4279-9dce-bdaa831c7932.json event: meditation_created
+sleep_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+workout_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+ошибка 'labels' is a required property при проверке параметра 'required' 
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+ошибка 'user' is a required property при проверке параметра 'required' 
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+
+
+VALIDATION SUCCESS RESULT:
+[['cmarker_created.schema', '3b4088ef-7521-4114-ac56-57c68632d431.json'], ['sleep_created.schema', 'f5656ff6-29e1-46b0-8d8a-ff77f9cc0953.json']]
+2020-11-28 14:22:49.311496
+cmarker2d760c3-7e10-4464-ab22-7fda6b5e2562.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+cmarker_created.schema:
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'source' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'labels' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+
+ba25151c-914f-4f47-909a-7a65a6339f34.json event: label_       selected
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'source' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+label_selected.schema:
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+
+ffe6b214-d543-40a8-8da3-deb0dc5bbd8c.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+cmarker_created.schema:
+ошибка 'suprt marker' is not of type 'array' при проверке параметра 'type' path: cmarkers
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+ошибка None is not of type 'integer' при проверке параметра 'type' path: user_id
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'source' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'labels' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка None is not of type 'integer' при проверке параметра 'type' path: user_id
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+
+cc07e442-7986-4714-8fc2-ac2256690a90.json event: label_selected
+sleep_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+cmarker_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+workout_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+label_selected.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+
+1eba2aa1-2acf-460d-91e6-55a8c3e3b7a3.json event: label_selected
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'source' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+label_selected.schema:
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+
+3b4088ef-7521-4114-ac56-57c68632d431.json event: cmarker_created
+sleep_created.schema:
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+cmarker_created.schema:
+valid
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+label_selected.schema:
+ошибка 'labels' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'id' is a required property при проверке параметра 'required' path: user
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+
+3ade063d-d1b9-453f-85b4-dda7bfda4711.json event: cmarker_calculated
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+cmarker_created.schema:
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'source' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+label_selected.schema:
+ошибка 'labels' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+
+fb1a0854-9535-404d-9bdd-9ec0abb6cd6c.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'source' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+label_selected.schema:
+ошибка 'labels' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+
+c72d21cf-1152-4d8e-b649-e198149d5bbb.json event: meditation_created
+sleep_created.schema:
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+workout_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'labels' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+
+a95d845c-8d9e-4e07-8948-275167643a40.json event: None
+sleep_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+cmarker_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+workout_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+label_selected.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+
+2e8ffd3c-dbda-42df-9901-b7a30869511a.json event: meditation_created
+sleep_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+workout_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'labels' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+
+bb998113-bc02-4cd1-9410-d9ae94f53eb0.json event: sleep_created
+sleep_created.schema:
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка [{'date': '2020-08-23T23:03:00-06:00', 'type': 'light'}, {'date': '2020-08-23T23:54:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T00:18:00-06:00', 'type': 'light'}, {'date': '2020-08-24T00:19:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T00:20:00-06:00', 'type': 'light'}, {'date': '2020-08-24T00:25:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T01:06:00-06:00', 'type': 'light'}, {'date': '2020-08-24T01:43:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T02:15:00-06:00', 'type': 'light'}, {'date': '2020-08-24T02:31:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T03:13:00-06:00', 'type': 'light'}, {'date': '2020-08-24T03:17:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T03:18:00-06:00', 'type': 'light'}, {'date': '2020-08-24T03:19:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T03:20:00-06:00', 'type': 'light'}, {'date': '2020-08-24T03:23:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T04:24:00-06:00', 'type': 'light'}, {'date': '2020-08-24T04:49:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T05:18:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:05:00-06:00', 'type': 'deep'}, {'date': '2020-08-24T06:22:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:25:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T06:28:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:31:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T06:32:00-06:00', 'type': 'light'}, {'date': '2020-08-24T06:33:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:05:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:06:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:07:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:08:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:09:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:10:00-06:00', 'type': 'awake'}, {'date': '2020-08-24T07:11:00-06:00', 'type': 'light'}, {'date': '2020-08-24T07:13:00-06:00', 'type': 'awake'}] is not of type 'object' при проверке параметра 'type' path: type_ranges
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'labels' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+
+29f0bfa7-bd51-4d45-93be-f6ead1ae0b96.json event: None
+sleep_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+cmarker_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+workout_created.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+label_selected.schema:
+ошибка None is not of type 'object' при проверке параметра 'type' 
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+
+f5656ff6-29e1-46b0-8d8a-ff77f9cc0953.json event: sleep_created
+sleep_created.schema:
+valid
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка [{'date': '2020-09-17T23:49:00+10:00', 'type': 'deep'}, {'date': '2020-09-18T00:21:00+10:00', 'type': 'awake'}, {'date': '2020-09-18T00:26:00+10:00', 'type': 'light'}] is not of type 'object' при проверке параметра 'type' path: type_ranges
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'labels' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+
+297e4dc6-07d1-420d-a5ae-e4aff3aedc19.json event: sleep_created
+sleep_created.schema:
+ошибка 'type' is a required property при проверке параметра 'required' path: type_ranges
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'type' is a required property при проверке параметра 'required' path: type_ranges
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'type' is a required property при проверке параметра 'required' path: type_ranges
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка [{'date': '2020-08-27T00:51:00-04:00', 'type': 'light'}, {'date': '2020-08-27T01:06:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T01:07:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T01:37:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T02:08:00-04:00', 'type': 'light'}, {'date': '2020-08-27T02:34:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T02:46:00-04:00', 'type': 'light'}, {'date': '2020-08-27T03:09:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T03:28:00-04:00', 'type': 'light'}, {'date': '2020-08-27T03:46:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T03:58:00-04:00', 'type': 'light'}, {'date': '2020-08-27T04:17:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T04:23:00-04:00', 'type': 'light'}, {'date': '2020-08-27T04:36:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T04:53:00-04:00', 'type': 'light'}, {'date': '2020-08-27T05:05:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T05:13:00-04:00', 'type': 'light'}, {'date': '2020-08-27T05:14:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T05:37:00-04:00', 'type': 'light'}, {'date': '2020-08-27T05:44:00-04:00', 'type': 'deep'}, {'date': '2020-08-27T06:51:00-04:00', 'type': 'light'}, {'date': '2020-08-27T06:58:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T06:59:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T07:00:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T07:01:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T07:11:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T08:23:00-04:00', 'type': 'light'}, {'date': '2020-08-27T08:24:00-04:00', 'type': 'rem'}, {'date': '2020-08-27T08:25:00-04:00', 'type': 'awake'}, {'date': '2020-08-27T08:34:00-04:00'}, {'date': '2020-08-27T09:27:00-04:00', 'type': 'light'}, {'date': '2020-08-27T09:34:00-04:00'}, {'date': '2020-08-27T09:36:00-04:00', 'type': 'light'}, {'date': '2020-08-27T09:40:00-04:00'}, {'date': '2020-08-27T09:43:00-04:00', 'type': 'light'}] is not of type 'object' при проверке параметра 'type' path: type_ranges
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'labels' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+
+e2d760c3-7e10-4464-ab22-7fda6b5e2562.json event: cmarker_created
+sleep_created.schema:
+ошибка 'source' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'finish_time' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+cmarker_created.schema:
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+workout_created.schema:
+ошибка 'activity_name' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'source' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'labels' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'timestamp' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'unique_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'bad user id' is not of type 'integer' при проверке параметра 'type' path: user_id
+измените ожидаемый тип данных в схеме или передавайте ожидаемый тип
+
+
+6b1984e5-4092-4279-9dce-bdaa831c7932.json event: meditation_created
+sleep_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+cmarker_created.schema:
+ошибка 'cmarkers' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'datetime' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+workout_created.schema:
+ошибка 'activity_type' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_end' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'time_start' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+label_selected.schema:
+ошибка 'id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'labels' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'rr_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+ошибка 'user_id' is a required property при проверке параметра 'required' 
+необходимо передавать значение или убрать его из требуемых. Возможно неверная схема
+
+
+VALIDATION SUCCESS RESULT:
+[['cmarker_created.schema', '3b4088ef-7521-4114-ac56-57c68632d431.json'], ['sleep_created.schema', 'f5656ff6-29e1-46b0-8d8a-ff77f9cc0953.json']]
