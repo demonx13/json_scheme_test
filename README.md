@@ -1,6 +1,6 @@
 # json_scheme_test
 
-test case
+test case Welltory
 
 проверяет json файлы из папки 'events'
 по схемам из папки 'schema'
